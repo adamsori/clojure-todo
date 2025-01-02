@@ -1,0 +1,1 @@
+["^ ","~$update-todo",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[3]],"~:name","^0","~:ns","~$user","~:top-ns",null,"~:arities",["^ ","~i3",["^ ","~:ret","~:boolean","~:arglist-str","[id title is-complete]"]],"~:type","~:fn"],"~:filename","/home/adam/Projects/clojure/todo/src/todo/query.clj"]
